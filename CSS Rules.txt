@@ -1,0 +1,32 @@
+CSS Rules
+
+    1.Selector
+    2.Declaration block {property:value;}
+    Selector {
+        property:value;
+        }
+
+CSS Types
+    1.inline CSS
+    2.internal CSS
+    3.external CSS
+
+Types os Selectors
+    1.Element (h1 or p, ...)
+    2.Class (.)
+    3.ID (#)
+    4.universal (*)
+
+CSS BOX Model
+    1.Content
+    2.Padding
+    3.Border
+    4.Margin
+
+CSS specificity (ranking/priority)
+    1.!important
+    2.in-line styling
+    3.ID Selector
+    4.class Selector
+    5.Element Selector
+    6.universal Selector

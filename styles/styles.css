@@ -1,0 +1,55 @@
+/* elemet selector */
+p {
+    background-color: cornsilk;
+    color: brown;
+}
+
+/* ID selector */
+#main-content {
+    background-color: lightblue;
+    font-weight: lighter;
+    text-transform: uppercase;
+}
+
+/* class selector */
+.section-text {
+    font-size: 15px;
+    color: darkblue;
+    text-align: right;
+}
+
+/* Content Box Styles */
+.content-box {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+/* ========== Navigation ========== */
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 15px;
+    padding: 10px;
+}
+
+nav a {
+    text-decoration: none;
+    color: darkblue;
+}
+
+
+/* Footer Styles */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #777;
+    font-size: 0.9em;
+}
+
+/* universal selector */
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
